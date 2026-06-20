@@ -33,7 +33,7 @@ const me: Developer = {
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jikongabc&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="165em" src="https://streak-stats.demolab.com?user=jikongabc&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikongabc&layout=compact&cache_seconds=1800">
 </div>
 
