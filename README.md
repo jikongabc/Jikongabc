@@ -34,7 +34,7 @@ const me: Developer = {
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jikongabc&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikongabc&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jikongabc&layout=compact&cache_seconds=1800">
 </div>
 
 <div align="center">
