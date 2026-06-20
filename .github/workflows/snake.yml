@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  # 每 12 小时自动更新一次
+  # 每 6 小时自动更新一次
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   # 允许在 Actions 页面手动触发
   workflow_dispatch:
   # 每次 push 到 main 也重新生成
