@@ -61,29 +61,7 @@ const me: Developer = {
 
 </div>
 
-<br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/jikongabc/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jikongabc&repo=REPO_1&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/jikongabc/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jikongabc&repo=REPO_2&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/jikongabc/REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jikongabc&repo=REPO_3&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-  <a href="https://github.com/jikongabc/REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jikongabc&repo=REPO_4&theme=tokyonight&hide_border=true&border_radius=10" />
-  </a>
-</div>
-
-
-<br/>
 
 ## <img src="https://media.giphy.com/media/BHpcrk4OzTbOM/giphy.gif" width="30"> GitHub Stats
 
@@ -107,16 +85,8 @@ const me: Developer = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jikongabc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contribution Snake
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/jikongabc/jikongabc/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
