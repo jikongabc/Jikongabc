@@ -20,6 +20,7 @@ const me: Developer = {
 - 🔭 Building some fun open-source projects
 - 🌱 Always learning new tech and staying curious
 - 💬 Happy to chat about tech, products, and everything in between
+- 💻 Algorithm enthusiast and data structure lover
 
 ## GitHub Activity
 
