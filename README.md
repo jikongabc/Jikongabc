@@ -1,5 +1,3 @@
-<div align="center">
-  <i>⭐️ From <a href="http
 
 
 <div align="center">   <a href="https://github.com/jikongabc">     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+jikongabc;Backend+%7C+Cloud+Native+%7C+Linux;Keep+building%2C+keep+shipping" alt="Typing SVG">   </a>   <br>   <a href="https://github.com/jikongabc">     <img src="https://komarev.com/ghpvc/?username=jikongabc&style=flat-square&color=2f81f7" alt="Profile views">   </a>   <a href="https://github.com/jikongabc?tab=followers">     <img src="https://img.shields.io/github/followers/jikongabc?label=Follow&style=flat-square&color=2f81f7" alt="Followers">   </a> </div>
@@ -22,9 +20,7 @@ const me: Developer = {
 - 🌱 Always learning new tech and staying curious
 - 💬 Happy to chat about tech, products, and everything in between
 
-##
-
-**##** **GitHub Activity**
+## GitHub Activity
 
  <div align="center">  <picture>    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jikongabc/jikongabc/output/snake-dark.svg">    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jikongabc/jikongabc/output/snake.svg">    <img alt="snake animation" src="https://raw.githubusercontent.com/jikongabc/jikongabc/output/snake.svg">  </picture> </div>
 
